@@ -1,0 +1,7 @@
+# Your copy of the game and everything generated from it never goes in the repo
+work/
+# Translation sources are kept out of the public repo (see README)
+text/
+__pycache__/
+*.so
+*.pyc
